@@ -190,3 +190,43 @@ body{
     width: 250px;
     border-radius: 5px;
 }
+
+/* get deals styles */
+.deals-container{
+    position: relative;
+    text-align: center;
+    color: #272727;
+    margin-bottom: 80px;
+}
+.get-text{
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.get-text>p{
+    font-size:20px;
+    line-height: 0;
+    color: rgba(94, 73, 73, 0.6);
+}
+.get-image{
+    margin: 0 132px;
+}
+.get-image img{
+    width: 1080px;
+    height: 300px;
+}
+
+.subscirbe{
+    margin-top: 60px;
+}
+.subscribe-inpt{
+    color: rgba(94, 73, 73, 0.6);
+    font-size: 20px;
+    padding: 20px 80px;
+    border-radius: 5px;
+    border: none;
+}
