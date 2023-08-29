@@ -63,11 +63,10 @@ body{
     display: flex;
     justify-content: space-around;
     margin: 80px 0;
-    /* padding:0 100px; */
     gap: 50px;
 }
-.featured-card > p{
-    text-align: center;
+.featured-card a{
+    margin-left: 80px;
 }
 .cardOne{
     background: rgba(167, 33, 98, 0.15);
@@ -75,6 +74,7 @@ body{
     border: 1px solid;
     border: none;
     border-radius: 300px 300px 0 0;
+    margin-bottom: 30px;
 }
 .cardOne img{
     width: 210px;
@@ -87,6 +87,7 @@ body{
     border: 1px solid;
     border: none;
     border-radius: 300px 300px 0 0;
+    margin-bottom: 30px;
 }
 .cardTwo img{
     width: 210px;
@@ -98,6 +99,7 @@ body{
     border: 1px solid;
     border: none;
     border-radius: 300px 300px 0 0;
+    margin-bottom: 30px;
 }
 
 .cardThree img{
