@@ -126,7 +126,7 @@ body{
 }
 
 
-/* Hot deals section  */
+/* Hot deals section styles  */
 .hotdeals{
     display: flex;
     gap: 80px;
@@ -162,6 +162,31 @@ body{
     font-size: 18px;
     font-weight: 400;
 }
-.deals-btn{
-    
+
+/* Insta section styles */
+.insta-section{
+    text-align: center;
+    margin: 100px;
+}
+.insta-title{
+    font-size: 30px;
+    font-weight: 700;
+}
+.insta-description{
+    font-size: 20px;
+    margin: 0 250px;
+    color: rgba(94, 73, 73, 0.6);
+}
+.insta-gallery{
+    padding: 30px;
+    margin: 20px 150px;
+}
+.images{
+    display: flex;
+    justify-content:space-around;
+    gap: 25px;
+}
+.images img{
+    width: 250px;
+    border-radius: 5px;
 }
