@@ -124,3 +124,44 @@ body{
 .third-service-image img{
     padding-left: 20px;
 }
+
+
+/* Hot deals section  */
+.hotdeals{
+    display: flex;
+    gap: 80px;
+    background: rgba(216, 146, 146, 0.05);
+    padding: 40px 250px;  
+    
+}
+.hotdeals-text{
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 90px;
+}
+.hotdeals-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: left;
+}
+
+.hot-off{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.hotdeals-description{
+    color: rgba(94, 73, 73, 0.6);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.deals-btn{
+    
+}
