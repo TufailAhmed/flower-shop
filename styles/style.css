@@ -230,3 +230,27 @@ body{
     border-radius: 5px;
     border: none;
 }
+
+
+/* footer styles */
+.footer{
+    text-align: center;
+    background: #111010;
+    padding: 50px;
+    color: #ffffff;
+}
+.footer-title{
+    font-size: 40px;
+    font-weight:700;
+    line-height: 0;
+}
+span{
+    color: #f35b7c;
+}
+.footer-description{
+    margin: 0 250px;
+    margin-bottom: 50px;
+}
+.footer-right{
+    color: #968a8a;
+}
