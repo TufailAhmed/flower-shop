@@ -104,3 +104,23 @@ body{
     width: 210px;
     height: 300px;
 }
+
+/* services section styles here*/
+.all-services{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    padding: 30px;
+    margin: 80px 150px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+.first-service-image img{
+    padding-left: 70px;
+}
+.second-service-image img{
+    padding-left: 70px;
+}
+.third-service-image img{
+    padding-left: 20px;
+}
